@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  background-color: #f9b4bf;
+  color: white;
+  font-size: 72px;
+  font-family: "Times New Roman", "Arial", sans-serif;
+}
+
+img {
+  width: 1080px;
+  height: auto;
+}
+
+h2,
+.list {
+  font-family: "Times New Roman", "Arial", sans-serif;
+  color: #0d2d3f;
+}
+
+h2 {
+  background-color: #fdfdb5;
+  font-size: 36px;
+}
+
+.list {
+font-size: 18px;
+}
+
+#button {
+  text-align: center;
+}  
+
