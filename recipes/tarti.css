@@ -1,0 +1,29 @@
+img {
+  width: 1200px;
+  height: auto;
+}
+
+h1 {
+  font-size: 72px;
+  font-family: "Times New Roman", "Arial", sans-serif;
+  text-align: center;
+  background-color: #ffd88f;
+  color: white;
+}
+
+h2 {
+  font-size: 36px;
+  background-color: #b69e87;
+}
+
+div {
+  text-align: center;
+}
+
+ul,
+ol,
+p {
+  font-size: 18px;
+  font-family: "Verdana", sans-serif;
+  color: #ffb69e;
+  

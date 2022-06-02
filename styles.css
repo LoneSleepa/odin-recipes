@@ -1,4 +1,19 @@
-body {
-  background-color: orange;
+h1 {
+  font-size: 120px;
+  font-family: "Times New Roman", "Arial", sans-serif;
+  text-align: center;
+  background-color: #de1717;
+  color: white;
+}
+
+ol {
+  font-size: 36px;
+  font-family: "Times New Roman", "Arial", sans-serif;
+}
+
+img {
+  width: 1200px;
+  height: auto;
+}
   
   
